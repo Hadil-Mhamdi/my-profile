@@ -1,0 +1,126 @@
+/* Colors and fonts*/
+body {
+	background: beige ;
+	color: black;
+	font-family:'Scheherazade New', serif;;
+	font-size: 20px;
+    margin: 50px;
+    padding: 60px;
+    box-shadow: 0px 10px 30px white;
+    border border-radius: 5;
+    border-radius: 5;
+}
+h1 {
+	color: lightpink;
+	font-family: 'Birthstone', cursive;;
+	font-size:40px ;
+
+	
+	background: floralwhite;
+    margin: 50px;
+    box-shadow: 0px 10px 30px white;
+
+	}
+	h2 {
+	color: lightskyblue;
+	font-family:'Birthstone', cursive;;
+	font-size:40px ;
+
+	background: floralwhite;
+    margin: 50px;
+    box box-shadow: 0;
+	}
+	a {
+	  text-decoration: none;
+      color: lighskyblue;
+      font-display: bold;
+      }
+      a: hover {
+      	color:lightskyblue ;
+}
+
+/*Custom design with class*/
+
+.container {
+width:700px ;
+margin: 40px auto;
+
+}
+
+@media (max-width: 760px) {
+    .container { 
+    	width: 600px;
+
+     }
+}
+
+@media (max-width: 500px) {
+    .container { 
+    	width: 400px;
+
+     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card-floralwhite{
+	background-color: floralwhite;
+	padding: 40px;
+	box-shadow:0px 10px 30px rgba(0, 0, 0, 0.1) ;
+	border-radius:35px ;
+	margin: 20px 0px;
+	text-align: center;
+
+
+	}
+
+.img-circle {
+	border-radius: 50px;
+	margin:25px 25px;
+
+	
+}
+
+.list-inline { 
+	list-style:none;
+	padding-left: 0px;
+}
+
+#introduction p {
+margin-bottom: 40px;
+font-family: 'Birthstone', cursive;;
+font-size: 30px;
+color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
